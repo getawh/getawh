@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Getaw
 - 👀 I’m interested in programming
-- 💻 I’m studying CSE in Adama science and technology university
+- 💻 Computer Science and Engineering graduate from Adama Science and Technology University
 - 📫 contact me :
--         - linkedin - www.linkedin.com/in/getaw-habtamu-393898182
+-         - LinkedIn - www.linkedin.com/in/getawh/
 -         - Instagram - https://www.instagram.com/getaw_h/
--         - Telegram - https://www.instagram.com/g_h_a_b/
+-         - Telegram - https://www.telegram.com/g_h_a_b/
